@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/drew/Lab09/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/applibrary.dir/Graph.cpp.o -c /home/drew/Lab09/Graph.cpp",
+  "file": "/home/drew/Lab09/Graph.cpp"
+},
+{
+  "directory": "/home/drew/Lab09/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/applibrary.dir/Edge.cpp.o -c /home/drew/Lab09/Edge.cpp",
+  "file": "/home/drew/Lab09/Edge.cpp"
+},
+{
+  "directory": "/home/drew/Lab09/build",
+  "command": "/usr/bin/g++   -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runMain.dir/main.cpp.o -c /home/drew/Lab09/main.cpp",
+  "file": "/home/drew/Lab09/main.cpp"
+},
+{
+  "directory": "/home/drew/Lab09/build",
+  "command": "/usr/bin/g++   -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/tests.cpp.o -c /home/drew/Lab09/tests.cpp",
+  "file": "/home/drew/Lab09/tests.cpp"
+}
+]
